@@ -21,7 +21,7 @@ This is a small React project for a restaurant website built with Vite.
 **Add your GitHub repo link and deployment link below before submission:**
 
 - GitHub: `https://github.com/D-sah-art/restaurant-website`
-- Deployment:`https://<your-app>.netlify.app`
+- Deployment:`https://restaurant-websi.netlify.app/`
 
 ## Submission
 - Zip the project folder (do NOT include `node_modules`).
